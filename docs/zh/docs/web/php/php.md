@@ -4,7 +4,7 @@
 
 常见的导致文件包含的函数有：
 
-- PHP：`include()`，`include_once()`，`require()`，`require_once()`，`fopen()`，`readfile()` 等
+- PP：`include()`，`include_once()`，`require()`，`require_once()`，`fopen()`，`readfile()` 等
 - JSP Servlet：`ava.io.File()`，`java.io.FileReader()` 等
 - ASP：`includefile`，`includevirtual` 等
 
